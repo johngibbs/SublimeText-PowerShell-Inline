@@ -1,0 +1,8 @@
+[
+	{
+        "keys": [
+            "ctrl+shift+r"
+        ],
+        "command": "execute_power_shell_inline"
+    }
+]
